@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💡 Hey, world! I'm Nandini, a budding computer engineer
-💡 Third year student at Chandigarh University
-💡 I like coding, creative design and problem solving
-💡 Open to collaboration!
+💡 Hey, world! I'm Nandini, a budding computer engineer  
+💡 Third year student at Chandigarh University  
+💡 I like coding, creative design and problem solving  
+💡 Open to collaboration!  
 
 
