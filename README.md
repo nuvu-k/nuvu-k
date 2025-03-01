@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Nandini! 𖹭
 
 <!--
 **nuvu-k/nuvu-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💡 Hey, world! I'm Nandini, a budding computer engineer
+💡 Third year student at Chandigarh University
+💡 I like coding, creative design and problem solving
+💡 Open to collaboration!
+
+
