@@ -34,5 +34,24 @@ Here are some ideas to get you started:
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Fueled by Coffee](https://img.shields.io/badge/-Fueled%20by%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
+### 🌟 Notable Projects:
+
+- **Astro Terra** 🛰️🌕  
+  An **AI-powered lunar crater detection system** that analyzes satellite imagery to **identify and map craters on the Moon**. Uses advanced **computer vision and deep learning techniques** to assist in planetary research and exploration.
+
+- **Ace - Dashcam & Security Alert System** 🚗📸  
+  A **smart accident reporting system** connected to a dashcam. It features live **camera feed**, **automated alerts** to emergency services, and **a rewards system** for responsible driving. Built with **HTML, CSS, TailwindCSS, and JavaScript**.
+
+- **Budget Tracker** 💰📊  
+  A **personal finance manager** that helps users **track expenses, set budgets, and analyze spending habits**. Features an intuitive UI with **dynamic charts** and **customized budget planning**. Built with **HTML, CSS, and JavaScript**.
+
+- **CU Furbish** 🏫♻️  
+  A **campus sustainability platform** designed for **Chandigarh University**, promoting **eco-friendly practices**. Enables students to **report waste issues, track recycling efforts, and earn rewards** for sustainable contributions.
+
+---
+
+ 
+
+
 
 
